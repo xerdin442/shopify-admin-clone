@@ -443,7 +443,7 @@ input::placeholder {
   background-color: #f3f3f3;
 }
 
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 480px) {
   .mobile-logo {
     display: block;
   }
@@ -492,7 +492,7 @@ input::placeholder {
     margin-top: 8px;
   }
   #alertBox {
-    right: auto;
+    margin: auto;
   }
   .panel-content img {
     display: none;
