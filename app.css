@@ -451,8 +451,11 @@ input::placeholder {
   .shop-name {
     display: none;
   }
+  .navbar {
+    gap: 8px;
+  }
   .search-bar {
-    max-width: 200px;
+    max-width: 220px;
     outline: none;
   }
   #profile {
