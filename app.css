@@ -452,7 +452,7 @@ input::placeholder {
     display: none;
   }
   .search-bar {
-    max-width: 230px;
+    max-width: 200px;
     outline: none;
   }
   #profile {
